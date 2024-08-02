@@ -1,27 +1,26 @@
 <div align="center">
     <h1>Barakka DEV</h1>
-    <p><em>IT Consulting Luwu Utara</em></p>
+    <p>IT Consulting Luwu Utara</p>
     <img src="https://github.com/barakkadev/barakkadev.github.io/blob/master/public/src/img/barakkadev-bg-white.jpg" alt="Barakka DEV" width="200" />
   </div>
   
   ---
   
-  <p align="center">
-    Welcome to the Barakka DEV GitHub profile! We specialize in IT consulting services located in Luwu Utara.
-  </p>
+  <div align="center">
+    <p>Welcome to the Barakka DEV GitHub profile! We specialize in IT consulting services located in Luwu Utara.</p>
+    <p><em>Contact Us:</em></p>
+  </div>
   
   <!-- Social media and other links -->
-  <!-- <p align="center">
-    <a href="https://your-telegram-link"><img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram" alt="Telegram"></a>
-    <a href="https://your-linkedin-link"><img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://your-medium-link"><img src="https://img.shields.io/badge/-Medium-black?logo=medium" alt="Medium"></a>
-    <a href="https://your-stackoverflow-link"><img src="https://img.shields.io/badge/-Stack_Overflow-white?logo=stackoverflow" alt="Stack Overflow"></a>
-    <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile views">
-  </p> -->
+  <p align="center">
+    <a href="https://wa.me/6281939208496"><img src="https://img.shields.io/badge/-Whatsapp-white?logo=whatsapp" alt="Whatsapp"></a>
+    <a href="https://your-linkedin-link"><img src="https://img.shields.io/badge/-Instagram-white?logo=instagram" alt="Instagram"></a>
+    <img src="https://komarev.com/ghpvc/?username=barakkadev&color=blue" alt="Profile views">
+  </p>
   
   <!-- GitHub Stats -->
   <!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="my github stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barakkadev&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=barakkadev&show_icons=true&theme=radical" alt="my github stats" height="165">
   </p> -->
   
