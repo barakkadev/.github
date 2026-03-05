@@ -19,11 +19,12 @@ Barakka DEV adalah startup kecil yang bergerak di bidang **IT Consulting, Mobile
 - Company profile site / landing page
 - Web application & dashboard
 - API integration & backend server
+(Contoh project: `laravel-pos-id`)
 
 ### 📱 Mobile App Development
 - **Android Native**  
   Menggunakan Kotlin & Jetpack Compose untuk pengalaman aplikasi Android yang cepat, stabil, dan modern.  
-  (Contoh project: `gomap-picker-android-compose`) :contentReference[oaicite:1]{index=1}
+  (Contoh project: `gomap-picker-android-compose`)
 
 - **Flutter Cross-Platform**  
   Membangun aplikasi iOS & Android dari satu codebase berbasis **Flutter + Dart**, ideal untuk kecepatan development dan konsistensi UI.
